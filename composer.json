@@ -1,16 +1,16 @@
 {
-    "name": "greensight/laravel-phprdkafka",
+    "name": "maddyscout/laravel-phprdkafka",
     "description": "Bridge package between Laravel and php-rdkafka",
     "keywords": [
         "greensight",
         "laravel"
     ],
-    "homepage": "https://github.com/greensight/laravel-phprdkafka",
+    "homepage": "https://github.com/maddyscout/laravel-phprdkafka",
     "license": "MIT",
     "authors": [
         {
-            "name": "arrilot",
-            "email": "nekrasov@greensight.ru",
+            "name": "maddyscout",
+            "email": "kou6ac@gmail.com",
             "role": "Developer"
         }
     ],
