@@ -9,7 +9,7 @@ This packages allows you to describe Kafka producers and consumers in config/kaf
 You can install the package via composer:
 
 ```bash
-composer require greensight/laravel-phprdkafka
+composer require maddyscout/laravel-php-rdkafka
 ```
 
 Publish the config file with:
